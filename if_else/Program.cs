@@ -1,4 +1,4 @@
-﻿namespace bir
+﻿namespace if_else
 {
     class Program
     {
