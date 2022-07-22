@@ -13,10 +13,10 @@ namespace arrayList
                 };
 
                 //Ekleme
-                // arrayList.Add(20);
-                // arrayList.Add("BTK Akademi");
-                // arrayList.Add(true);
-                // arrayList.Add('v');
+                arrayList.Add(20);
+                arrayList.Add("BTK Akademi");
+                arrayList.Add(true);
+                arrayList.Add('v');
 
 
 
