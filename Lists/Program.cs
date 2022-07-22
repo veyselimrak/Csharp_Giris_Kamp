@@ -23,6 +23,7 @@ namespace Lists
                     sayilar.Add(number);
                 }
                 
+                //Dolaşma
                 foreach (var sayi in sayilar)
                 {
                     System.Console.Write($" {sayi,-5}");
