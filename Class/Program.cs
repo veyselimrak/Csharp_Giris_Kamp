@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
             {
+            //Classların referans tipli olduğunu gösteren bir örnek.
                 //Tanımla - Atama
 
                 List<OgretimElemani> ogrElmListesi = new List<OgretimElemani>()
