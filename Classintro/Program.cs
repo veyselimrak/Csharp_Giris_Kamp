@@ -2,6 +2,14 @@
 
 namespace Classintro
 {
+     class Kurs
+    {
+        public string KursAdi { get; set; }
+
+        public string Egitmeni { get; set; }
+
+        public int IzlenmeOrani { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
@@ -38,14 +46,5 @@ namespace Classintro
 
 
         }
-    }
-
-    class Kurs
-    {
-        public string KursAdi { get; set; }
-
-        public string Egitmeni { get; set; }
-
-        public int IzlenmeOrani { get; set; }
     }
 }
